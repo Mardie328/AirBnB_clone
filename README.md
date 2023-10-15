@@ -1,15 +1,15 @@
 # AirBnB clone - The console
 
-### Table of Contents
-* Project Description
-* Functionalities of this console
-* Environment
-* How to start this console
-* How to use it
-* Use cases
+### Table of Contents 📑
+* [Project Description](#project-description)
+* [Functionalities of this console](functionalities-of-this-console)
+* [Environment](environment)
+* [How to start this console](how-to-start-this-console)
+* [How to use it](how-to-use-it)
+* [Use cases](use-cases)
 
 ### Project Description
-This AirBnB clone project is an Alx Software engineering that involves cloning the (AirBnB) web app. This project is a four-phase project with the first segment being to build the
+This AirBnB clone project is an Alx Software engineering that involves cloning the [AirBnB](https://www.airbnb.com/) web app. This project is a four-phase project with the first segment being to build the
 console using the Cmd module in Python to manage all objects for the website.
 
 ### Functionalities of this console
@@ -47,7 +47,7 @@ Nb: Paste the commands in your command terminal
 
 
 ### Author
-Taofeek Mardiyyah - Twitter | LinkedIn
+Taofeek Mardiyyah - [Twitter](https://twitter.com/TechieHijabie) | [LinkedIn](https://linkedin.com/in/mardiyyah-taofeek)
 
 
 
