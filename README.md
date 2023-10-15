@@ -2,11 +2,11 @@
 
 ### Table of Contents 📑
 * [Project Description](#project-description)
-* [Functionalities of this console](functionalities-of-this-console)
-* [Environment](environment)
-* [How to start this console](how-to-start-this-console)
-* [How to use it](how-to-use-it)
-* [Use cases](use-cases)
+* [Functionalities of this console](#functionalities-of-this-console)
+* [Environment](#environment)
+* [How to start this console](#how-to-start-this-console)
+* [How to use it](#how-to-use-it)
+* [Use cases](#use-cases)
 
 ### Project Description
 This AirBnB clone project is an Alx Software engineering that involves cloning the [AirBnB](https://www.airbnb.com/) web app. This project is a four-phase project with the first segment being to build the
