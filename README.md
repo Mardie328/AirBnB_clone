@@ -26,7 +26,7 @@ This project was interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3
 Nb: Paste the commands in your command terminal
 1. Clone this project
    `
-     git clone
+     git clone git@github.com:Mardie328/AirBnB_clone.git
    `
 3. Change your directory into the project's directory
    `
